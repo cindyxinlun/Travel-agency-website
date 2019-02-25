@@ -1,0 +1,20 @@
+#container{
+	width:100%;
+	font-family: 'Baloo', cursive;
+	font-family: 'Fira Sans', sans-serif;
+	font-family: 'Noto Sans TC', sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Noto Serif TC', serif;
+}
+article{
+	float:none;
+	width:100%;
+}
+aside{
+	float:none;
+	width:100%;
+}
+img{
+	width:100%; 
+	height: auto;
+}
